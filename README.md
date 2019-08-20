@@ -1,1 +1,1 @@
-# Blink library for KB-IDE
+# Relay library for KB-IDE
